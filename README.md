@@ -48,3 +48,4 @@ Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local:
 - [POST /addElection](http://localhost:3000/addElection): Agrega datos de una elección.
 
 Cada endpoint devuelve una respuesta en formato JSON.# Prueba_Imanku_Solutions
+# Prueba_Imanku_Solutions
